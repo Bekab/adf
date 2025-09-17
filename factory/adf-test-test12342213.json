@@ -1,0 +1,9 @@
+{
+	"name": "adf-test-test12342213",
+	"location": "polandcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a1b4e486-89a2-4efc-9c40-ab94786240d0",
+		"tenantId": "7ad1d41b-bb20-44bc-b0e7-7b6828f41b21"
+	}
+}
