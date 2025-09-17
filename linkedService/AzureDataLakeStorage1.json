@@ -1,0 +1,12 @@
+{
+	"name": "AzureDataLakeStorage1",
+	"properties": {
+		"description": "dsb",
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://testadf12345.dfs.core.windows.net/"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/linkedservices"
+}
